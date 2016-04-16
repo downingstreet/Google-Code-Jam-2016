@@ -10,3 +10,8 @@ The code for Google Code Jam 2016.
 + Problem A. Counting Sheep
 + Problem B. Revenge of the Pancakes
 + Problem C. Coin Jam (small dataset)
+
+
+**Round 1A problems solved:**
++ Problem A. The Last Word
++ Problem B. Rank and File
